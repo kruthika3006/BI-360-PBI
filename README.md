@@ -90,7 +90,7 @@ The dashboard gathers data from two primary sources:
 ![marketing_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Marketing%20view)
 
 ### **Supply Chain View**
-![sc_view](https://github.com/user-attachments/assets/dbf5cbd4-bae1-47a7-9e49-e473c293abe1)
+![sc_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Supply%20chain%20view)
 
 ### **Executive View**
 ![Executive view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Executive%20view)
