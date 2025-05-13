@@ -72,7 +72,7 @@ The dashboard gathers data from two primary sources:
 ![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
 
 ### **Information tab**
-![info_tab](https://github.com/user-attachments/assets/719cbe23-b898-495b-80e1-86853bbfd27a)
+![info_tab](https://github.com/kruthika3006/BI-360-PBI/blob/main/info%20view)
 
 ### **Support tab**
 ![support_tab](https://github.com/user-attachments/assets/e46d9457-932f-4843-a611-3a1ce9758200)
