@@ -14,7 +14,8 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 **Objective**: Develop a 360-degree view dashboard to provide key insights across Finance, Sales, Marketing, and Supply Chain.
 
 ## Data Model:
-![](
+![](https://github.com/kruthika3006/BI-360-PBI/blob/main/Data%20model)
+
 Interact with [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWM3ZDQ4MTEtM2MwYS00NTNlLWI5ODktODMxZWRjNjdlMmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Features
