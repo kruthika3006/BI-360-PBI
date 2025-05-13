@@ -74,12 +74,6 @@ The dashboard gathers data from two primary sources:
 ### **Information tab**
 ![info_tab](https://github.com/kruthika3006/BI-360-PBI/blob/main/info%20view)
 
-### **Support tab**
-![support_tab](https://github.com/user-attachments/assets/e46d9457-932f-4843-a611-3a1ce9758200)
-
-### **Filter Panel / Navigation Panel / Abbreviation tab**
-![filter_nav_abbr](https://github.com/user-attachments/assets/80e581e8-2788-468a-a4a6-26a680a35547)
-
 ### **Finance View**
 ![finance_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Finance%20view)
 
