@@ -84,7 +84,7 @@ The dashboard gathers data from two primary sources:
 ![finance_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Finance%20view)
 
 ### **Sales View**
-![sales_view](https://github.com/user-attachments/assets/8a927ed1-056e-4010-af59-7e2666f036e9)
+![sales_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Sales%20view)
 
 ### **Marketing View**
 ![marketing_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Marketing%20view)
