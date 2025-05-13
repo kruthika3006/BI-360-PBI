@@ -92,6 +92,9 @@ The dashboard gathers data from two primary sources:
 ### **Supply Chain View**
 ![sc_view](https://github.com/user-attachments/assets/dbf5cbd4-bae1-47a7-9e49-e473c293abe1)
 
+### **Executive View**
+![Executive view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Executive%20view)
+
 ## Key Learnings in Power BI:
 - Importing data from MySQL into Power Query.
 - Importing CSV/Excel files into Power Query.
