@@ -69,7 +69,7 @@ The dashboard gathers data from two primary sources:
 ## Project Dashboard Views:
 
 ### **Home Page**
-![Home_page](https://github.com/user-attachments/assets/0dd9698d-4b60-4fd4-9b25-ac21de981209)
+![Home_page](https://github.com/kruthika3006/BI-360-PBI/blob/main/Home)
 
 ### **Information tab**
 ![info_tab](https://github.com/kruthika3006/BI-360-PBI/blob/main/info%20view)
