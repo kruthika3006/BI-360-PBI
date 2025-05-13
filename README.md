@@ -13,7 +13,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 **Competitor**: Dell - Their competitor has a large data analytics team and relies entirely on data for decision-making.
 **Objective**: Develop a 360-degree view dashboard to provide key insights across Finance, Sales, Marketing, and Supply Chain.
 
-Interact with [Live Dashboard]
+Interact with [Live Dashboard](<iframe title="Business insights 360" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWM3ZDQ4MTEtM2MwYS00NTNlLWI5ODktODMxZWRjNjdlMmU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>)
 
 ## Features
 
