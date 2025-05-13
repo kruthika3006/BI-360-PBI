@@ -81,7 +81,7 @@ The dashboard gathers data from two primary sources:
 ![filter_nav_abbr](https://github.com/user-attachments/assets/80e581e8-2788-468a-a4a6-26a680a35547)
 
 ### **Finance View**
-![finance_view](https://github.com/user-attachments/assets/20e22969-c41e-4e8d-8dad-2a08f1a981f2)
+![finance_view](https://github.com/kruthika3006/BI-360-PBI/blob/main/Finance%20view)
 
 ### **Sales View**
 ![sales_view](https://github.com/user-attachments/assets/8a927ed1-056e-4010-af59-7e2666f036e9)
